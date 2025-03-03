@@ -1,3 +1,7 @@
+[![Vercel CEO Tweets about this tool](https://github.com/user-attachments/assets/5424342c-f9f4-491a-95ba-c846eb0ec6ac)](https://x.com/rauchg/status/1895981829599216065)
+
+🔗 **Link to the tool**: [Token Visualizer](https://v0-llm-token-visualizer.vercel.app)
+
 # 🔍 LLM Token Visualizer
 
 LLM Token Visualizer is a Next.js project that helps visualize the number of tokens in different text lengths.
